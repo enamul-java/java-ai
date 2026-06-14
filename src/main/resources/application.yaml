@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: java-ai
+  ai:
+    ollama:
+      base-url: http://localhost:11434
+      chat:
+        model: gemma3:4b
+server:
+  port: 9191
