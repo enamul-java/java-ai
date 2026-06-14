@@ -2,7 +2,8 @@
 # AI Chat Boot with a Java Spring Boot and a local LLM Model 
 
 ## Project Architecture
-<img width="631" height="311" alt="Untitled Diagram" src="https://github.com/user-attachments/assets/86f610ef-ff0b-42bf-a8a6-3683f6099233" />
+<img width="1627" height="967" alt="ChatGPT Image Jun 14, 2026, 03_40_12 PM" src="https://github.com/user-attachments/assets/78a4e0e9-d850-4fec-9c35-55bb27324c6e" />
+
 
 ### Summary
 
