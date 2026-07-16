@@ -41,7 +41,7 @@ http://localhost:11434
 Run the command below to download and execute the gemma3 model via ollama
 
 ```
-ocker exec -it ollama ollama run gemma3
+docker exec -it ollama ollama run gemma3
 ```
 
 ### Step 4
